@@ -1,0 +1,3 @@
+@section('sectors')
+    active
+@endsection

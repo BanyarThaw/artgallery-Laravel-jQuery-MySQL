@@ -1,0 +1,3 @@
+@section('categories')
+    active
+@endsection

@@ -1,0 +1,3 @@
+@section('types')
+    active
+@endsection

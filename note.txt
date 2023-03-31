@@ -1,0 +1,45 @@
+Must Delete Controllers
+==========================
+-DetailController
+-MainCategoryController
+-PhotoController
+-SubCategoryController
+-YoutbueLinkController
+
+Modifying edit/delete buttons
+=======================================
+edit/update,showing messages,delete
+================================
+-dashboard / photo gallery (#done) (#done) (#done)
+-dashboard / video gallery (#done) (#done) (#done)
+
+-sub categories / photos (#done) (#done) (#done)
+-sub categories / videos (#done) (#done) (#done)
+
+-detail / show / photos (#clear) (#clear) (#clear)
+-detail / show / videos (#clear) (#clear) (#clear)
+
+-detail / edit / photos (#done) (#done) (#done)
+-detail / edit / videos (#clear) (#clear) (#clear)
+
+
+
+file:///D:/xampp/htdocs/agatha/album-single-masonry-3col.html
+
+
+
+Modifying edit/delete methods
+=================================================
+edit/update,showing messages,delete
+================================
+-dashboard / photo gallery         (#done)
+-dashboard / video gallery         (#done)
+
+-sub categories / photos         (#done)
+-sub categories / videos         (#done)
+
+-detail / show / photos (#clear) (#clear) (#clear)
+-detail / show / videos (#clear) (#clear) (#clear)
+
+-detail / edit / photos           (#done)
+-detail / edit / videos (#clear) (#clear) (#clear)
